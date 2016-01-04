@@ -11,7 +11,6 @@ This bootstrapped version of StylesConference has been test on four devices:
   3.  9" Apple iPad
   4.  5" Mi4
 
-You can download the source code of actual 'StylesConference' website at learn.shayhowe.com.
-http://learn.shayhowe.com/practice/organizing-data-with-tables.zip
+You can download the source code of actual 'StylesConference' website at learn.shayhowe.com http://bit.ly/1RZB34i.
 
 Enjoy Bootstrapping!
