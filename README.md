@@ -1,5 +1,5 @@
 # stylesconference
-This projects aims to create a BOOTSTRAPPED version of 'StylesConference' website created by Shay Howe for the purpose of tutorial @learn.shayhowe.com http://bit.ly/1kjQk1b.
+This projects aims to create a [BOOTSTRAPPED version](http://stylesconference.shivamkapoor.com/) of [StylesConference](http://learn.shayhowe.com/practice/organizing-data-with-tables/index.html) website created by Shay Howe for the purpose of tutorial @learn.shayhowe.com.
 
 What it means is that StylesConference is now RESPONSIVE i.e., it has different layout when viewed on phone or a tablet to give optimal viewing experience.
 
@@ -11,6 +11,6 @@ This bootstrapped version of StylesConference has been test on four devices:
   3.  9" Apple iPad
   4.  5" Mi4
 
-You can download the source code of actual 'StylesConference' website at learn.shayhowe.com http://bit.ly/1RZB34i.
+You can download the [source code](http://bit.ly/1RZB34i) of actual [StylesConference](http://learn.shayhowe.com/practice/organizing-data-with-tables/index.html) website at learn.shayhowe.com.
 
 Enjoy Bootstrapping!
