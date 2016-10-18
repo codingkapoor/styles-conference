@@ -5,7 +5,7 @@ What it means is that StylesConference is now RESPONSIVE i.e., it has different 
 
 This project nevertheless aims to illustrate how easily a website can be redesigned as responsive using Twitter Bootstrap framework.
 
-This bootstrapped version of [StylesConference](http://stylesconference.shivamkapoor.com/) has been test on four devices:
+This bootstrapped version of [StylesConference](http://codingkapoor.github.io/styles-conference/) has been test on four devices:
   1. 24" Dell Monitor
   2. 14" Dell LATITUDE E6430
   3.  9" Apple iPad
