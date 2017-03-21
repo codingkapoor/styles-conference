@@ -1,5 +1,5 @@
 # stylesconference
-This projects aims to create a [BOOTSTRAPPED](http://stylesconference.shivamkapoor.com/) version of [StylesConference](http://learn.shayhowe.com/practice/organizing-data-with-tables/index.html) website created by Shay Howe for the purpose of tutorial @learn.shayhowe.com.
+This projects aims to create a [BOOTSTRAPPED](https://codingkapoor.github.io/styles-conference/) version of [StylesConference](http://learn.shayhowe.com/practice/organizing-data-with-tables/index.html) website created by Shay Howe for the purpose of tutorial @learn.shayhowe.com.
 
 What it means is that StylesConference is now RESPONSIVE i.e., it has different layout when viewed on phone or a tablet to give optimal viewing experience.
 
